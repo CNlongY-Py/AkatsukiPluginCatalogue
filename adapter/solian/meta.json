@@ -1,0 +1,6 @@
+{
+    "name": "solian",
+    "version": "1.0.0",
+    "author": "CNlongY",
+    "description": "Multi-account Solian WebSocket plugin with HTTP SDK"
+}
