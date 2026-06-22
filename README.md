@@ -1,0 +1,2 @@
+# AkatsukiPluginCatalogue
+Akatsuki's PluginCatalogue
